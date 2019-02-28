@@ -1,0 +1,26 @@
+html {
+  font-family: sans-serrif;
+}
+
+.btn {
+  border-colour: limegreen;
+  background-color: limegreen;
+}
+
+.btn-ghost {
+  background-color: transparent;
+}
+
+.btn-lighty {
+  background-color: lightgreen;
+  border-color: lightgreen;
+}
+
+.btn:hover {
+  background-color: darkgreen;
+  border-color: darkgreen;
+}
+
+.btn-ghost:hover {
+  background-color: transparent;
+}
